@@ -4,4 +4,4 @@ bases:
   - ../../base
 patchesStrategicMerge:
   - deployment.yaml
-namePrefix: dev-
+namePrefix: #{name_prefix}
